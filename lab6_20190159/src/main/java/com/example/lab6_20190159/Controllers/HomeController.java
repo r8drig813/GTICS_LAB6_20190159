@@ -1,4 +1,4 @@
-package com.example.lab6_20190159;
+package com.example.lab6_20190159.Controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
